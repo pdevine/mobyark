@@ -47,6 +47,8 @@ func main() {
 
 	gs = NewGameState()
 
+	//NewGameOver()
+
 	allSprites.Sprites = append(allSprites.Sprites, bg)
 	allSprites.Sprites = append(allSprites.Sprites, moby)
 
